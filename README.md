@@ -2,9 +2,9 @@
 
 Para executar o projeto, basta executar o comando
 
- javascript
+``` javascript
   npm start
-
+```
 
 ## Lista de premissas assumidas
 
