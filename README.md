@@ -6,8 +6,6 @@ Para executar o projeto, basta executar o comando
   npm start
 ```
 
-## Lista de premissas assumidas
-
 
 ## Deciões de projetos
 
